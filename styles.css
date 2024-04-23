@@ -41,7 +41,7 @@ body{
 }
 
 #lado{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: "Times New Roman", Times, serif;
     height: 500PX;
     width: 290px;
     font-size: 20px; 
@@ -54,7 +54,7 @@ body{
 }
 
 #rodape{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: "Times New Roman", Times, serif;
     font-size: 20px; 
     color:rgb(255, 0, 0);
     height: 150PX;
